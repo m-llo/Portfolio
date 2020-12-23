@@ -55,6 +55,13 @@ body {
 figure {
 display: flex;
 justify-content: center;
+align-items: flex-start ;
 
+}
+
+#cvrbkg {
+background-image:url(./assets/largecity.jpg);
+background-size: 2000px 1000px;
+background-repeat: no-repeat;
 
 }

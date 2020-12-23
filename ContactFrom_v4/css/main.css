@@ -157,11 +157,14 @@ iframe {
   justify-content: center;
   align-items: center;
   padding: 15px;
-  background: #a64bf4;
-  background: -webkit-linear-gradient(45deg, #00dbde, #fc00ff);
-  background: -o-linear-gradient(45deg, #00dbde, #fc00ff);
-  background: -moz-linear-gradient(45deg, #00dbde, #fc00ff);
-  background: linear-gradient(45deg, #00dbde, #fc00ff);
+  background-image:url(../images/chicityscape.jpg);
+  background-size: 2000px 1000px;
+  background-repeat: no-repeat;
+  /* background: #0c0c0c; */
+  /* background: -webkit-linear-gradient(45deg, #00dbde, #fc00ff); */
+  /* background: -o-linear-gradient(45deg, #00dbde, #fc00ff); */
+  /* background: -moz-linear-gradient(45deg, #00dbde, #fc00ff); */
+  /* background: linear-gradient(45deg, #dade00f1, #0e0d0e); */
   
 }
 
@@ -301,11 +304,11 @@ textarea.input100 {
   z-index: -1;
   width: 300%;
   height: 100%;
-  background: #a64bf4;
-  background: -webkit-linear-gradient(left, #00dbde, #fc00ff, #00dbde, #fc00ff);
-  background: -o-linear-gradient(left, #00dbde, #fc00ff, #00dbde, #fc00ff);
-  background: -moz-linear-gradient(left, #00dbde, #fc00ff, #00dbde, #fc00ff);
-  background: linear-gradient(left, #00dbde, #fc00ff, #00dbde, #fc00ff);
+  background: #121213;
+  background: -webkit-linear-gradient(left, #0c0c0b, #1b1b1a, #0a6dee, #0c0c0c);
+  /* background: -o-linear-gradient(left, #00dbde, #fc00ff, #00dbde, #fc00ff); */
+  /* background: -moz-linear-gradient(left, #00dbde, #fc00ff, #00dbde, #fc00ff); */
+  /* background: linear-gradient(left, #00dbde, #fc00ff, #00dbde, #fc00ff); */
   top: 0;
   left: -100%;
 
@@ -560,6 +563,8 @@ textarea.input100 {
   color: #333333;
   line-height: 1.2;
 }
+
+
 
 
 
