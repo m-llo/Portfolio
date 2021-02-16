@@ -21,3 +21,8 @@ Contact Page
 <a href="https://github.com/m-llo" target ="_blank">GitHub</a>
 <a href="https://www.linkedin.com/in/mark-lloyd-27b7217/"  target ="_blank">LinkedIn</a>
 <a href="../assets/Mark Lloyd Resume_21_ wd.pdf"  download="resume">My Resume</a>
+
+### technology
+bootstrap 4.0
+fontawesome
+mdbootstrap
