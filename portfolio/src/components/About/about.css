@@ -1,0 +1,23 @@
+.header {
+    background-image:url(../../assets/sfcityscape1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:rgb(247, 243, 243);
+
+  }
+
+.subhead{
+    color:rgb(247, 243, 243);
+
+}
+.content{
+    color:rgb(26, 25, 25);
+
+}
+
+
+/* .paragraph{
+background-color: rgb(208, 212, 212);
+padding: 5%;
+
+} */
