@@ -17,6 +17,11 @@ align-items: flex-end;
   color:rgb(243, 242, 239);
  }
 
+ .subhead{
+color:ghostwhite
+
+ }
+
  @media screen and (max-width: 1020px) {
   .display-1, .fw-light {
     padding:5%;
