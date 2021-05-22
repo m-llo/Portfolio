@@ -5,7 +5,7 @@ function Home() {
 
 return(
 <div>
-    <img src="../assets/largecity.jpg" height="700px" width="2000px"></img>
+    <img src="../../assets/largecity.jpg" height="700px" width="2000px"></img>
 </div>
 )
 }

@@ -34,8 +34,8 @@ return(
       </div>
       <Link to="https://github.com/m-llo" className="navbar-brand" target="_blank"><i class="fab fa-github"></i></Link>
       <Link to="https://www.linkedin.com/in/mark-lloyd-27b7217/" className="navbar-brand" target="_blank"><img
-          src="../assets/linkedIn.jpg" height="30" width="30" alt="linkedin Icon"></img></Link>
-      <Link to="../assets/Mark Lloyd Resume_21_ wd.pdf" className="navbar-brand" download="resume">My Resume</Link>
+          src="../../assets/linkedIn.jpg" height="30" width="30" alt="linkedin Icon"></img></Link>
+      <Link to="../../assets/Mark Lloyd Resume_21_ wd.pdf" className="navbar-brand" download="resume">My Resume</Link>
     </nav>
   </header>
 </div>
